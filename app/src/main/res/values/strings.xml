@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">CineBox</string>
+    <string name="brand_tagline">Stream Discovery &amp; Cinema Guide</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_tv_shows">TV Shows</string>
+    <string name="nav_trending">Trending</string>
+    <string name="nav_popular">Popular</string>
+    <string name="nav_top_rated">Top Rated</string>
+    <string name="nav_upcoming">Upcoming</string>
+    <string name="nav_genres">Genres</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_providers">Where to Watch</string>
+    <string name="nav_my_list">My List</string>
+    <string name="nav_about">About</string>
+
+    <!-- Hero & Actions -->
+    <string name="action_watch_trailer">Watch Trailer</string>
+    <string name="action_more_info">More Info</string>
+    <string name="action_add_my_list">My List</string>
+    <string name="action_in_my_list">In My List</string>
+    <string name="action_load_more">Load More</string>
+    <string name="action_retry">Retry Connection</string>
+    <string name="action_clear_search">Clear Search</string>
+    <string name="action_close">Close</string>
+    <string name="action_open_youtube">Watch on YouTube</string>
+    <string name="action_view_providers">View Streaming Options</string>
+
+    <!-- Home Sections -->
+    <string name="section_trending_movies">Trending Movies</string>
+    <string name="section_popular_movies">Popular Movies</string>
+    <string name="section_top_rated">Top Rated Movies</string>
+    <string name="section_upcoming">Upcoming Movies</string>
+    <string name="section_popular_tv">Popular TV Shows</string>
+
+    <!-- Filters & Sorting -->
+    <string name="sort_popularity">Popular</string>
+    <string name="sort_rating">Top Rated</string>
+    <string name="sort_release_date">Release Date</string>
+    <string name="filter_all_genres">All Genres</string>
+    <string name="media_type_movie">MOVIE</string>
+    <string name="media_type_tv">TV SHOW</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search movies, TV shows, actors…</string>
+    <string name="search_empty_title">No Matching Titles Found</string>
+    <string name="search_empty_subtitle">Try searching for another movie title, TV series, or keyword.</string>
+    <string name="search_prompt_title">Discover Movies &amp; Series</string>
+    <string name="search_prompt_subtitle">Type above to search the official TMDB catalog in real time.</string>
+
+    <!-- Details -->
+    <string name="details_overview">Storyline</string>
+    <string name="details_director">Director</string>
+    <string name="details_creator">Creator</string>
+    <string name="details_cast">Top Cast</string>
+    <string name="details_trailers">Official Trailers &amp; Videos</string>
+    <string name="details_where_to_watch">Where to Watch</string>
+    <string name="details_similar">Similar Titles</string>
+    <string name="details_recommendations">Recommended For You</string>
+    <string name="providers_stream">Stream / Flatrate</string>
+    <string name="providers_rent">Rent</string>
+    <string name="providers_buy">Buy</string>
+    <string name="providers_none">No official watch providers listed for this region on TMDB.</string>
+    <string name="providers_powered_by">Watch provider data powered by JustWatch &amp; TMDB</string>
+
+    <!-- My List -->
+    <string name="my_list_empty_title">Your List is Empty</string>
+    <string name="my_list_empty_subtitle">Bookmark movies and TV shows from any card or detail page to save them here.</string>
+
+    <!-- API Configuration Notice -->
+    <string name="api_key_required_title">TMDB API Key Configuration Required</string>
+    <string name="api_key_required_body">Add your official TMDB API v3 key name TMDB_API_KEY in the AI Studio Secrets panel (or in .env / TmdbConfig.kt) to fetch live movies, TV shows, trailers, and watch providers from api.themoviedb.org/3.</string>
+
+    <!-- Footer & Attribution -->
+    <string name="tmdb_attribution">This product uses the TMDB API but is not endorsed or certified by TMDB.</string>
+    <string name="footer_copyright">© 2026 CineBox Stream Discovery. All rights reserved.</string>
+    <string name="footer_about">About</string>
+    <string name="footer_contact">Contact</string>
+    <string name="footer_privacy">Privacy Policy</string>
+    <string name="footer_terms">Terms of Use</string>
+</resources>

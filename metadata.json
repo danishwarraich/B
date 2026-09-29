@@ -1,0 +1,6 @@
+{
+  "name": "CineBox",
+  "description": "A modern movie and TV streaming-discovery application powered by the official TMDB API with trailers, cast, watch providers, genres, and My List.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
